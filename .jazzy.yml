@@ -1,9 +1,9 @@
-module: Rainbow
+module: SwinjectPropertyWrapper
 
 author: Philip Niedertscheiders
 author_url: https://github.com/philprime
 copyright: '© 2020 [Philip Niedertscheider](https://philpri.me). All rights reserved.'
-github_url: https://github.com/philprime/Rainbow
+github_url: https://github.com/philprime/SwinjectPropertyWrapper
 
 theme: fullwidth
 
@@ -11,5 +11,5 @@ separate_global_declarations: true
 use_safe_filenames: true
 
 swift_build_tool: spm
-include: Sources/Rainbow/**
+include: Sources/SwinjectPropertyWrapper/**
 
