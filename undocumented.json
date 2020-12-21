@@ -1,0 +1,54 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/SwinjectPropertyWrapper/SwinjectPropertyWrapper/Sources/SwinjectPropertyWrapper/Inject.swift",
+      "line": 4,
+      "symbol": "Inject",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/SwinjectPropertyWrapper/SwinjectPropertyWrapper/Sources/SwinjectPropertyWrapper/Inject.swift",
+      "line": 6,
+      "symbol": "Inject.uninitialized(name:resolver:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/SwinjectPropertyWrapper/SwinjectPropertyWrapper/Sources/SwinjectPropertyWrapper/Inject.swift",
+      "line": 7,
+      "symbol": "Inject.initialized(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/SwinjectPropertyWrapper/SwinjectPropertyWrapper/Sources/SwinjectPropertyWrapper/Inject.swift",
+      "line": 9,
+      "symbol": "Inject.init(name:resolver:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/SwinjectPropertyWrapper/SwinjectPropertyWrapper/Sources/SwinjectPropertyWrapper/Inject.swift",
+      "line": 13,
+      "symbol": "Inject.wrappedValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/SwinjectPropertyWrapper/SwinjectPropertyWrapper/Sources/SwinjectPropertyWrapper/InjectSettings.swift",
+      "line": 10,
+      "symbol": "InjectSettings",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/SwinjectPropertyWrapper/SwinjectPropertyWrapper/Sources/SwinjectPropertyWrapper/InjectSettings.swift",
+      "line": 12,
+      "symbol": "InjectSettings.resolver",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/SwinjectPropertyWrapper/SwinjectPropertyWrapper"
+}
