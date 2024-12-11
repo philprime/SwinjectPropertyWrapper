@@ -10,7 +10,7 @@ public enum Inject<Value> {
         self = .uninitialized(name: name, resolver: resolver)
     }
 
-    public var wrappedValue: Value {
+    @MainActor public var wrappedValue: Value {
         mutating get {
             switch self {
             case .uninitialized(let name, let resolver):

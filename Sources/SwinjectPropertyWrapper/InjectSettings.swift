@@ -9,6 +9,6 @@ import Swinject
 
 public enum InjectSettings {
 
-    public static var resolver: Resolver?
+    @MainActor public static var resolver: Resolver?
 
 }
