@@ -8,7 +8,7 @@ let package = Package(
         .library(name: "SwinjectPropertyWrapper", targets: ["SwinjectPropertyWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Swinject/Swinject", .upToNextMajor(from: "2.9.1")),
+        .package(url: "https://github.com/Swinject/Swinject", .upToNextMajor(from: "2.10.0")),
         .package(url: "https://github.com/mattgallagher/CwlPreconditionTesting.git", .upToNextMajor(from: "2.2.2"))
     ],
     targets: [
